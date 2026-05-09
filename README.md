@@ -71,7 +71,7 @@ Move disk 1 from B to A
 Move disk 2 from B to C
 Move disk 1 from A to C
 
-## 📁 Repository Structure
+### 📁 Repository Structure
 tower-of-hanoi/
 ├── recursive.cpp      # Recursive implementation
 ├── iterative.cpp      # Iterative (stack‑based) implementation
