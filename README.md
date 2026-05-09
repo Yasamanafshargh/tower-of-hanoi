@@ -78,10 +78,10 @@ tower-of-hanoi/
 ├── README.md          # This file
 └── LICENSE            # (optional) MIT license
 
-## 🤝 Contributing
+### 🤝 Contributing
 Feel free to fork, improve, or suggest changes. Pull requests are welcome.
 
-## 📄 License
+### 📄 License
 This project is open‑source and available under the MIT License.
 
 🌐 References
