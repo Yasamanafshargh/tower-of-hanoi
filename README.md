@@ -59,7 +59,7 @@ g++ iterative.cpp -o hanoi_iter
 # or
 ./hanoi_iter
 
-## Example (n = 3)
+### Example (n = 3)
 Enter number of disks: 3
 Output (recursive version):
 
