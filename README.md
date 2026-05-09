@@ -56,7 +56,7 @@ g++ iterative.cpp -o hanoi_iter
 
 ### Run
 ./hanoi_rec
-# or
+ or
 ./hanoi_iter
 
 ### Example (n = 3)
@@ -71,17 +71,17 @@ Move disk 1 from B to A
 Move disk 2 from B to C
 Move disk 1 from A to C
 
-### 📁 Repository Structure
+## 📁 Repository Structure
 tower-of-hanoi/
 ├── recursive.cpp      # Recursive implementation
 ├── iterative.cpp      # Iterative (stack‑based) implementation
 ├── README.md          # This file
 └── LICENSE            # (optional) MIT license
 
-### 🤝 Contributing
+## 🤝 Contributing
 Feel free to fork, improve, or suggest changes. Pull requests are welcome.
 
-### 📄 License
+## 📄 License
 This project is open‑source and available under the MIT License.
 
 🌐 References
