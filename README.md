@@ -54,7 +54,8 @@ We have three pegs (A, B, C) and `n` disks of different sizes. Initially all dis
 ```bash
 g++ recursive.cpp -o hanoi_rec
 g++ iterative.cpp -o hanoi_iter
-Run
+
+### Run
 bash
 Copy
 Download
@@ -65,9 +66,6 @@ Example (n = 3)
 Enter number of disks: 3
 Output (recursive version):
 
-text
-Copy
-Download
 Move disk 1 from A to C
 Move disk 2 from A to B
 Move disk 1 from C to B
