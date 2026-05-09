@@ -51,18 +51,15 @@ We have three pegs (A, B, C) and `n` disks of different sizes. Initially all dis
 - A C++ compiler (g++, clang++, etc.)
 
 ### Compile
-```bash
 g++ recursive.cpp -o hanoi_rec
 g++ iterative.cpp -o hanoi_iter
 
 ### Run
-bash
-Copy
-Download
 ./hanoi_rec
 # or
 ./hanoi_iter
-Example (n = 3)
+
+### Example (n = 3)
 Enter number of disks: 3
 Output (recursive version):
 
@@ -73,19 +70,18 @@ Move disk 3 from A to C
 Move disk 1 from B to A
 Move disk 2 from B to C
 Move disk 1 from A to C
-📁 Repository Structure
-text
-Copy
-Download
+
+### 📁 Repository Structure
 tower-of-hanoi/
 ├── recursive.cpp      # Recursive implementation
 ├── iterative.cpp      # Iterative (stack‑based) implementation
 ├── README.md          # This file
 └── LICENSE            # (optional) MIT license
-🤝 Contributing
+
+### 🤝 Contributing
 Feel free to fork, improve, or suggest changes. Pull requests are welcome.
 
-📄 License
+### 📄 License
 This project is open‑source and available under the MIT License.
 
 🌐 References
