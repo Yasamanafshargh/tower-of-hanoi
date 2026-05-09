@@ -81,11 +81,16 @@ Move disk 1 from A to C
 
 
 ### 📁 Repository Structure
+
 tower-of-hanoi/
 ├── recursive.cpp      # Recursive implementation
+
 ├── iterative.cpp      # Iterative (stack‑based) implementation
+
 ├── README.md          # This file
+
 └── LICENSE            # (optional) MIT license
+
 
 ### 🤝 Contributing
 Feel free to fork, improve, or suggest changes. Pull requests are welcome.
